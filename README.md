@@ -19,7 +19,6 @@ I am a dedicated developers, nice to meet you!
 - 💬 [Facebook](https://www.linkedin.com/in/phong-ng/)
 - 🔗 [LinkedIn](https://www.facebook.com/thanhphong.nguyen.526875/) 
 
- ![PhongMax's github stats](https://github-readme-stats.vercel.app/api?username=PhongMax&theme=merko&show_icons=true) 
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PhongMax&layout=compact&hide=html" alt="PhongMax" /></div>
 <br />
