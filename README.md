@@ -24,6 +24,3 @@ I am a dedicated developers, nice to meet you!
 <br />
 <br />
 <div><img align="center" src="https://github-readme-stats.vercel.app/api?username=PhongMax&show_icons=true%22%20alt=%22PhongMax%22%20/%3E%3C/div%3E alt="PhongMax1" /></div>
-
-### and just a funny gif...😛
-![](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif) 
