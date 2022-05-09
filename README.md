@@ -3,11 +3,7 @@
 <pre>
 <table>
 <tr>
-  <td width="auto">
-    <img src="https://github-readme-stats.vercel.app/api?username=ThanhLa1802&show_icons=true&hide=contribs,issues&hide_border=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThanhLa1802&layout=compact&show_icons=true&hide_border=true" />
-  </td>
-  <td width="52%"><img alt="gif" align="right" src=".github/coding-freak.gif"/></td>
+  <td width="auto"><img alt="gif" align="center" src=".github/coding-freak.gif"/></td>
 </tr>
 <table>
 </pre>
