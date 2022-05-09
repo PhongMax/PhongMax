@@ -1,15 +1,6 @@
 ### Hi there 👋
 
 <pre>
-----------------------------------------
-<span>PhongMax, Hello World!!</span>
-----------------------------------------
-      \   ^__^
-       \  (oo)\_______
-          (__)\ 0   0 )\  *
-              ||--0-w | \/
-              ||     ||
-</pre>
 <table>
 <tr>
   <td width="auto">
@@ -19,6 +10,8 @@
   <td width="52%"><img alt="gif" align="right" src=".github/coding-freak.gif"/></td>
 </tr>
 <table>
+</pre>
+
 I am a dedicated developers, nice to meet you!
 **Programming Is My Life** 👋
 
