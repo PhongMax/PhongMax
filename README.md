@@ -3,7 +3,7 @@
 <pre>
 <table>
 <tr>
-  <td width="auto"><img alt="gif" align="center" src=".github/coding-freak.gif"/></td>
+  <td width="auto"><img alt="gif" align="center" src="https://github.com/PhongMax/PhongMax/blob/main/coding-freak.gif"/></td>
 </tr>
 <table>
 </pre>
