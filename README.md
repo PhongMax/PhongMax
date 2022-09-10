@@ -5,8 +5,8 @@ I am a dedicated developers, nice to meet you!
   </a ><img alt="gif"  width="70%" src="https://github.com/PhongMax/PhongMax/blob/main/coding-freak.gif"/></a>
 ### Check out my social medias:
 
-- 💬 [Facebook](https://www.linkedin.com/in/phong-ng/)
-- 🔗 [LinkedIn](https://www.facebook.com/thanhphong.nguyen.526875/) 
+- 💬 [Facebook](https://www.facebook.com/phong.ducpho.quangngai/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/phong-ng/) 
 
 <br>
 <div align=center>
