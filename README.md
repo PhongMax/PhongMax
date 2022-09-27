@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a dedicated developers, nice to meet you!
+I am a dedicated developer, nice to meet you!
 **Programming Is My Life** 👋
   </a ><img alt="gif"  width="70%" src="https://github.com/PhongMax/PhongMax/blob/main/coding-freak.gif"/></a>
   
