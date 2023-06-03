@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 I am a dedicated developer, nice to meet you!
-**Programming Is My Life** 👋
+**Don’t be a programmer, be a problem solver** 👋
   </a ><img alt="gif"  width="70%" src="https://github.com/PhongMax/PhongMax/blob/main/coding-freak.gif"/></a>
   
 <h3 align="left">Connect with me:</h3>
