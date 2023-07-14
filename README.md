@@ -3,7 +3,9 @@
 I am a dedicated developer, nice to meet you!
 **Don’t be a programmer, be a problem solver** 👋
   </a ><img alt="gif"  width="70%" src="https://github.com/PhongMax/PhongMax/blob/main/coding-freak.gif"/></a>
-  
+ <blockquote >
+      "Document to empower, document to grow."
+</blockquote> 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/phong.ducpho.quangngai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/phong.ducpho.quangngai/" height="30" width="40" /></a>
